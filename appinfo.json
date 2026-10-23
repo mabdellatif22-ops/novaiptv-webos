@@ -7,5 +7,6 @@
   "main": "index.html",
   "title": "Nova IPTV",
   "icon": "icon.png",
-  "largeIcon": "largeicon.png"
+  "largeIcon": "largeicon.png",
+  "requiredACG": []
 }
