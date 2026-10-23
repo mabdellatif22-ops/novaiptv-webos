@@ -1,0 +1,11 @@
+
+{
+  "id": "fun.novaiptv.webos",
+  "version": "0.1.0",
+  "vendor": "Nova IPTV",
+  "type": "web",
+  "main": "index.html",
+  "title": "Nova IPTV",
+  "icon": "icon.png",
+  "largeIcon": "largeicon.png"
+}
